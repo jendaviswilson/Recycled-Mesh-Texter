@@ -1,0 +1,46 @@
+# Prerequisites
+*.d
+
+# Compiled object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build output folders
+build/
+bin/
+.pio/
+
+# Arduino build cache
+*.elf
+*.uf2
+*.hex
+
+# Editor and OS clutter
+.vscode/settings.json
+.DS_Store
